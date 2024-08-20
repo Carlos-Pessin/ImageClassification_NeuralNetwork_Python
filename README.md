@@ -1,3 +1,11 @@
-# NeuralNetwork---Image-classification
-Using neural networks to identify micocalcification simulated images
-Pandas, skimage and tensorflow libraries 
+Post-graduate project from "Machine Learning applied to Medical Signals and Images" at University of São Paulo
+
+# Image_classification_NeuralNetwork_Python
+Using neural networks to identify microcalcification in simulated images fo breast ultrasound.
+
+# Libraries
+- Pandas
+- Skimage
+- Tensorflow
+- SKLearn
+- Matplotlib 
